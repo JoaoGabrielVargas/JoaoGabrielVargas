@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá! Sou o João. 👋
+
+## Sobre mim 👋
+
+Estudante de Desenvolvimento Web na Trybe - Javascript, HTML, CSS, React, Redux <3
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoGabrielVargas&show_icons=true&theme=gotham)
 

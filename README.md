@@ -1,6 +1,6 @@
 ### Olá! Sou o João. 👋
 
-## Sobre mim 👋
+#### Sobre mim 👋
 
 Estudante de Desenvolvimento Web na Trybe - Javascript, HTML, CSS, React, Redux <3
 

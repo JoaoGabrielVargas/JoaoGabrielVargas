@@ -9,7 +9,7 @@
 
 <h3 align="left">Me siga:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jo%c3%a3o-gabriel-pereira-vargas-da-silva-97539a144/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jo%c3%a3o-gabriel-pereira-vargas-da-silva-97539a144/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jo%c3%a3o-gabriel-pereira-vargas-da-silva-97539a144/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jo%c3%a3o-gabriel-pereira-vargas-da-silva-97539a144/" /></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>

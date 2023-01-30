@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaogabrielvargas" alt="joaogabrielvargas" /></a> </p>
 
-- 🌱 Aprendendo atualmente **Docker, entrando no universo do back-end.**
+- 🌱 Aprendendo atualmente **Docker, MySQL, Express, Sequelize, me aprofundando no universo do back-end.**
 
 - 📫 Como entrar em contato: **joao.gaiares@gmail.com**
 

@@ -1,9 +1,7 @@
 <h1 align="center">Olá 👋, eu sou o João</h1>
-<h3 align="center">Um apaixonado estudante de Desenvolvimento Web na Trybe - Javascript, HTML, CSS, React, Redux <3</h3>
+<h3 align="center">Um apaixonado Desenvolvedor Web - Javascript, HTML, CSS, React, Redux, Context API, Jest, SQL, Docker, MongoDB <3</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaogabrielvargas" alt="joaogabrielvargas" /></a> </p>
-
-- 🌱 Aprendendo atualmente **Docker, MySQL, Express, Sequelize, me aprofundando no universo do back-end.**
 
 - 📫 Como entrar em contato: **joao.gaiares@gmail.com**
 
